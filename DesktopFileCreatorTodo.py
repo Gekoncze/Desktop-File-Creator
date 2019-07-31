@@ -1,0 +1,5 @@
+print("# -- TODO -- # include #comments - save info about element that was after the comment")
+print("# -- TODO -- # treat filename as domain + display in widget")
+print("# -- TODO -- # test save/load")
+print("# -- TODO -- # zmenit ulozeni stavu - pouze options jako trojrozmerne pole[groupKey][localeKey][optionKey]")
+print("# -- TODO -- # prejmenovat groups na options")
